@@ -5,5 +5,5 @@
 * ♡ when I'm not coding: I'm definitely in-game
 * ♡ fun fact: I like to draw! ˖ ݁♬⋆.˚𝄞
 
-## ♡ connect with me 𓂃۶ৎ
+## ♡ get to know more 𓂃۶ৎ
 - Portfolio: https://portfolio-mejia.vercel.app/
