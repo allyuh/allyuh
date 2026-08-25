@@ -7,16 +7,15 @@
 
 ---
 
-### 🎀 about me
+### ₊✩ about me
 
-* ♡ **skills:** React, React Native, Python, C#, JavaScript, HTML/CSS, and Git.
 * ♡ **currently learning:** Vue.js
-* ♡ **when I'm not coding:** I'm definitely in-game (usually clicking away at Minesweeper or navigating through horror games like Pocket Mirror).
+* ♡ **when I'm not coding:** I'm definitely in-game (rpg or fps lol)
 * ♡ **fun fact:** I like to draw! Exploring digital art techniques and playing with early 2000s/vintage aesthetics is my favorite creative outlet. ˖ ݁♬⋆.˚𝄞
 
-### 🌸 tech stack
+### ₊✩ tech stack
 
-![React](https://img.shields.io/badge/React-FFC0CB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-f2c9d0?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-FFC0CB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFC0CB?style=flat-square&logo=python&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-FFC0CB?style=flat-square&logo=c-sharp&logoColor=black)
