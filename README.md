@@ -26,6 +26,6 @@
 
 ---
 
-### . ݁⋆ ۶ৎ ݁˖ get to know more 𓂃۶ৎ
+### ₊✩ get to know more 𓂃۶ৎ
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-ffccd4?style=for-the-badge&logo=Vercel&logoColor=black)](https://portfolio-mejia.vercel.app/)
