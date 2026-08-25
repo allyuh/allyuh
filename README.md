@@ -5,4 +5,4 @@
 * ♡ fun fact: I like to draw! ˖ ݁♬⋆.˚𝄞
 
 ## ♡ connect with me 𓂃۶ৎ
-* - Portfolio: https://portfolio-mejia.vercel.app/
+- Portfolio: https://portfolio-mejia.vercel.app/
