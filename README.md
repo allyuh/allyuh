@@ -1,7 +1,7 @@
 <div align="center">
 
 ## . ݁⋆ ۶ৎ ݁˖ welcome to my digital space 𓂃۶ৎ
-*a chill aspiring web dev.*
+* 22 | BsCpE graduate | chill coder * 
 
 </div>
 
