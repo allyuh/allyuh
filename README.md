@@ -15,15 +15,14 @@
 
 ### ₊✩ tech stack
 
-![React](https://img.shields.io/badge/React-f2c9d0?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-ffd4db?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-ffd4db?style=for-the-badge&logo=python&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-ffd4db?style=for-the-badge&logo=c-sharp&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd4db?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-ffd4db?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-ffd4db?style=for-the-badge&logo=css3&logoColor=black)
-![Git](https://img.shields.io/badge/Git-ffd4db?style=for-the-badge&logo=git&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-ffd4db?style=for-the-badge&logo=vue.js&logoColor=black)
+![React](https://img.shields.io/badge/React-ffccd4?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-ffccd4?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-ffccd4?style=for-the-badge&logo=python&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-ffccd4?style=for-the-badge&logo=c-sharp&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffccd4?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-ffccd4?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-ffccd4?style=for-the-badge&logo=css3&logoColor=black)
+![Git](https://img.shields.io/badge/Git-ffccd4?style=for-the-badge&logo=git&logoColor=black)
 
 ---
 
