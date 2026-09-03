@@ -1,6 +1,6 @@
 <div align="center">
 
-## . ݁⋆ ۶ৎ ݁˖ welcome to my digital space 𓂃۶ৎ
+## . ݁⋆ ۶ৎ ݁˖ welcome to my digital space . ݁⋆ ۶ৎ ݁˖
 *22 | BsCpE graduate | chill coder* 
 
 </div>
