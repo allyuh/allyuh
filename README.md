@@ -9,7 +9,7 @@
 
 ### ₊✩ about me
 
-* ♡ **currently learning:** Vue.js
+* ♡ **currently learning:** ![Vue.js](https://img.shields.io/badge/Vue.js-ffccd4?style=for-the-badge&logo=vue.js&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-ffccd4?style=for-the-badge&logo=typescript&logoColor=black)
 * ♡ **when I'm not coding:** I'm definitely in-game (rpg or fps lol)
 * ♡ **fun fact:** I like to draw! 
 
